@@ -1,0 +1,130 @@
+
+<!doctype html>
+<html lang="en-US" class="no-js" >
+  
+  <head>
+	
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" rel="stylesheet">
+  
+  <meta name='robots' content='noindex, nofollow' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v17.2.1 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Page not found - Test.com</title>
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:title" content="Page not found - Test.com" />
+	<meta property="og:site_name" content="Test.com" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://test.com/#website","url":"https://test.com/","name":"Test.com","description":"Looking for a test? We can help you find it.","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://test.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='stylesheet' id='wp-block-library-css'  href='https://test.com/wp-includes/css/dist/block-library/style.min.css?ver=5.8.3' type='text/css' media='all' />
+<link rel='stylesheet' id='sage/css-css'  href='https://test.com/wp-content/themes/Test.com_Theme/dist/styles/main.css' type='text/css' media='all' />
+<link rel='stylesheet' id='default-css-css'  href='https://test.com/wp-content/themes/Test.com_Theme/style.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://test.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://test.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="https://test.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://test.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://test.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.8.3" />
+<link rel="icon" href="https://test.com/wp-content/uploads/2021/08/Gauge-Fav-Icon.png" sizes="32x32" />
+<link rel="icon" href="https://test.com/wp-content/uploads/2021/08/Gauge-Fav-Icon.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://test.com/wp-content/uploads/2021/08/Gauge-Fav-Icon.png" />
+<meta name="msapplication-TileImage" content="https://test.com/wp-content/uploads/2021/08/Gauge-Fav-Icon.png" />
+ 
+
+	<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-WHGFFP');</script>
+	<!-- End Google Tag Manager -->
+
+	<script src="https://kit.fontawesome.com/1284835282.js" crossorigin="anonymous"></script>
+
+</head>
+  
+  <body data-rsssl=1 class="error404">
+    
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WHGFFP"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    
+        
+    
+<div class="top-header">
+	<div class="row">
+		<div class="small-12 columns">
+					</div>
+	</div>
+</div>
+
+
+<header class="main-header">
+	<div class="row">
+		<div class="small-7 medium-3 end columns">
+			<a href="https://test.com/" class="main-logo"><img src="https://test.com/wp-content/uploads/2021/08/testdotcom-logo.svg" alt="Test.com"></a>
+		</div>
+	</div>
+</header>
+
+
+    
+    <div class="wrap" role="document">
+      <main class="main">
+        
+        
+  
+  <header class="page-header no-image">
+    
+    
+    
+  </header>
+
+
+
+  <div class="page-breadcrumbs">
+  <div class="row">
+    <div class="medium-12 columns">
+      <nav class="">      
+              </nav>     
+    </div>
+  </div>  
+</div>
+
+
+<div class="alert alert-warning">
+  Sorry, but the page you were trying to view does not exist.</div>
+
+<form role="search" method="get" class="search-form" action="https://test.com/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form>        
+      </main><!-- /.main -->
+    </div><!-- /.wrap -->
+    
+    <!--WPFC_FOOTER_START--><footer class="main-footer">
+  <div class="row">
+    <div class="small-12 medium-3 columns">
+      <img src="https://test.com/wp-content/uploads/2021/08/Logo.svg" alt="Test.com" class="footer-logo">
+    </div>
+    <div class="small-12 medium-4 columns">
+      <small>&copy; 2021 Test.com All Rights Reserved</small>
+    </div>
+    <div class="small-12 medium-5 columns">
+          </div>   
+  </div>
+</footer><script type='text/javascript' src='https://test.com/wp-content/themes/Test.com_Theme/dist/scripts/main.js' id='sage/js-js'></script>
+<script type='text/javascript' src='https://test.com/wp-includes/js/wp-embed.min.js?ver=5.8.3' id='wp-embed-js'></script>
+
+  </body>
+</html>
